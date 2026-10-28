@@ -1,0 +1,5 @@
+node_modules/
+gateway.db*
+.env
+.DS_Store
+*.log

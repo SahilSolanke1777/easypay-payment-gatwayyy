@@ -1,0 +1,13 @@
+{
+  "name": "upi-poc",
+  "version": "1.0.0",
+  "description": "Minimal UPI Gateway Proof-of-Concept",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.5.4"
+  }
+}
